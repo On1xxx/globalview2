@@ -1,0 +1,41 @@
+-x
+objective-c
+-arch
+x86_64
+-fretain-comments-from-system-headers
+-std=gnu99
+-fobjc-arc
+-gmodules
+-fpascal-strings
+-O0
+-fno-common
+-DDEBUG=1
+-DDEBUG=1
+-DCOCOAPODS=1
+-DCOCOAPODS=1
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk
+-fasm-blocks
+-mios-simulator-version-min=10.2
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-I/Users/tgi-connect/Downloads/Apple Mobile App Source files 3/DerivedData/TGI/Build/Products/Debug-iphonesimulator/include
+-I/Users/tgi-connect/Downloads/Apple Mobile App Source files 3/Pods/Headers/Public
+-I/Users/tgi-connect/Downloads/Apple Mobile App Source files 3/Pods/Headers/Public/CorePlot
+-I/Users/tgi-connect/Downloads/Apple Mobile App Source files 3/Pods/Headers/Public/Reachability
+-I/Users/tgi-connect/Downloads/Apple Mobile App Source files 3/Pods/Headers/Public/SAMLoadingView
+-I/Users/tgi-connect/Downloads/Apple Mobile App Source files 3/Pods/Headers/Public/UIAlertView+Blocks
+-I/Users/tgi-connect/Downloads/Apple Mobile App Source files 3/Pods/Headers/Public/gdata-objectivec-client
+-I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/usr/include/libxml2
+-F/Users/tgi-connect/Downloads/Apple Mobile App Source files 3/DerivedData/TGI/Build/Products/Debug-iphonesimulator
+-F/Users/tgi-connect/Downloads/Apple Mobile App Source files 3
+-ferror-limit=10
+-working-directory=/Users/tgi-connect/Downloads/Apple Mobile App Source files 3
+-Xclang
+-detailed-preprocessing-record
+x86_64-apple-darwin16.4.0
+"4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.38)"
+SDK_PRODUCT_BUILD_VERSION=14E269
+14E269

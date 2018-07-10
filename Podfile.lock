@@ -1,0 +1,24 @@
+PODS:
+  - CorePlot (1.6)
+  - gdata-objectivec-client (1.9.1)
+  - Reachability (3.2)
+  - SAMLoadingView (0.1.0)
+  - UIAlertView+Blocks (0.8.1)
+
+DEPENDENCIES:
+  - CorePlot (~> 1.6)
+  - gdata-objectivec-client
+  - Reachability (~> 3.1)
+  - SAMLoadingView (~> 0.1.0)
+  - UIAlertView+Blocks (~> 0.8.1)
+
+SPEC CHECKSUMS:
+  CorePlot: 820901f6c147f2d84549ffa1f0902869f980d74d
+  gdata-objectivec-client: f3f16881c8ad005c9f2b0473ec078c58691dab0a
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SAMLoadingView: 7ffc4f0efe85f9717d6e367b6b93e32befe4407c
+  UIAlertView+Blocks: 45c3d3b7194906702d3e9a14c7ece5581505646d
+
+PODFILE CHECKSUM: 84d8448cf07eb4c242801d213c15c605ec835d51
+
+COCOAPODS: 1.1.1
